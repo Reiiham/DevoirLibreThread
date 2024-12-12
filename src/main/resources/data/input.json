@@ -1,0 +1,121 @@
+[ {
+
+  "date" : "2024-12-09",
+  "amount" : 150.75,
+  "customerId" : 1,
+  "status" : "Pending"
+}, {
+
+  "date" : "2024-12-10",
+  "amount" : 200.5,
+  "customerId" : 2,
+  "status" : "Pending"
+}, {
+
+  "date" : "2024-12-11",
+  "amount" : 350.0,
+  "customerId" : 3,
+  "status" : "Pending"
+}, {
+
+  "date" : "2024-12-14",
+  "amount" : 220.1,
+  "customerId" : 200,
+  "status" : "Pending"
+}, {
+
+  "date" : "2024-12-16",
+  "amount" : 75.5,
+  "customerId" : 128,
+  "status" : "Pending"
+}, {
+
+  "date" : "2024-12-11",
+  "amount" : 350.0,
+  "customerId" : 1000003,
+  "status" : "Pending"
+}, {
+
+  "date" : "2024-12-14",
+  "amount" : 220.1,
+  "customerId" : 20,
+  "status" : "Pending"
+}, {
+
+  "date" : "2024-12-16",
+  "amount" : 75.5,
+  "customerId" : 1000050,
+  "status" : "Pending"
+}, {
+
+  "date" : "2024-12-17",
+  "amount" : 405.9,
+  "customerId" : 1000100,
+  "status" : "Pending"
+}, {
+
+  "date" : "2024-12-18",
+  "amount" : 185.6,
+  "customerId" : 1000200,
+  "status" : "Pending"
+}, {
+
+  "date" : "2024-12-11",
+  "amount" : 350.0,
+  "customerId" : 1000003,
+  "status" : "Pending"
+}, {
+
+  "date" : "2024-12-14",
+  "amount" : 220.1,
+  "customerId" : 20,
+  "status" : "Pending"
+}, {
+
+  "date" : "2024-12-15",
+  "amount" : 310.0,
+  "customerId" : 1000030,
+  "status" : "Pending"
+}, {
+  "date" : "2024-12-16",
+  "amount" : 75.5,
+  "customerId" : 50,
+  "status" : "Pending"
+}, {
+
+  "date" : "2024-12-17",
+  "amount" : 405.9,
+  "customerId" : 1000100,
+  "status" : "Pending"
+}, {
+  "date" : "2024-12-18",
+  "amount" : 185.6,
+  "customerId" : 200,
+  "status" : "Pending"
+}, {
+  "date" : "2024-12-09",
+  "amount" : 150.75,
+  "customerId" : 1000001,
+  "status" : "Pending"
+}, {
+  "date" : "2024-12-10",
+  "amount" : 200.5,
+  "customerId" : 1000002,
+  "status" : "Pending"
+}, {
+  "date" : "2024-12-11",
+  "amount" : 350.0,
+  "customerId" : 1000003,
+  "status" : "Pending"
+}, {
+  "date" : "2024-12-12",
+  "amount" : 120.45,
+  "customerId" : 1000004,
+  "status" : "Pending"
+}, {
+  "date" : "2024-12-14",
+  "amount" : 220.1,
+  "customerId" : 20,
+  "status" : "Pending"
+}
+]
